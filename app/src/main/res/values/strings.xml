@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AloDokterSubmission</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="account_login">Account login</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log out</string>
 </resources>
